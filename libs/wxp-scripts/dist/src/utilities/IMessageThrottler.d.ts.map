@@ -1,0 +1,1 @@
+{"version":3,"file":"IMessageThrottler.d.ts","sourceRoot":"","sources":["../../../src/utilities/IMessageThrottler.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;4EAgB4E;AAE5E;;GAEG;AACH,MAAM,WAAW,iBAAiB;IAC9B;;;;OAIG;IACH,cAAc,CAAC,MAAM,EAAE,CAAC,OAAO,EAAE,MAAM,KAAK,OAAO,GAAG,IAAI,CAAC;IAE3D;;;;OAIG;IACH,UAAU,CAAC,OAAO,EAAE,MAAM,GAAG,IAAI,CAAC;CACrC"}
